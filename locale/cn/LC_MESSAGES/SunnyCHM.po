@@ -1,0 +1,129 @@
+msgid "File"
+msgstr "文件"
+
+msgid "Tool"
+msgstr "工具"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "&New\tCtrl-N"
+msgstr "新建(&N)\tCtrl-N"
+
+msgid "&Open\tCtrl-O"
+msgstr "打开(&O)\tCtrl-O"
+
+msgid "&Save\tCtrl-S"
+msgstr "保存(&S)\tCtrl-S"
+
+msgid "E&xit\tCtrl-Q"
+msgstr "退出(&X)\tCtrl-Q"
+
+msgid "&Find\tCtrl-F"
+msgstr "查找替换(&F)\tCtrl-F"
+
+msgid "Compile\tCtrl-R"
+msgstr "编译\tCtrl-R"
+
+msgid "Donate"
+msgstr "捐赠"
+
+msgid "About"
+msgstr "关于"
+
+msgid "New"
+msgstr "新建"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Compile"
+msgstr "编译"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Contents"
+msgstr "目录"
+
+msgid "Index"
+msgstr "索引"
+
+msgid "Project file"
+msgstr "工程文件"
+
+msgid "Contents file"
+msgstr "目录文件"
+
+msgid "Index file"
+msgstr "索引文件"
+
+msgid "Open project"
+msgstr "打开工程"
+
+msgid "Save file as ..."
+msgstr "保存为 ..."
+
+msgid "Add tree node"
+msgstr "添加树节点"
+
+msgid "System Logs"
+msgstr "系统日志"
+
+msgid "Tips"
+msgstr "提示"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Operation failed, project does not exist\n"
+msgstr "操作失败，工程不存在\n"
+
+msgid "Operation failed, invalid parameter\n"
+msgstr "操作失败，无效参数\n"
+
+msgid "Operation failed, item unselected!\n"
+msgstr "操作失败，为选中删除对象!\n"
+
+msgid "Project not saved!\nYou must first save it."
+msgstr "工程未保存，请先保存后再添加"
+
+msgid "Project not saved!\nAre you sure you want to discard?"
+msgstr "工程未保存，是否丢弃?"
+
+msgid "Open file: %s\n"
+msgstr "打开文件: %s\n"
+
+msgid "Open file failed: %s\n"
+msgstr "打开文件失败: %s\n"
+
+msgid "Save file failed: %s"
+msgstr "保存文件失败: %s"
+
+msgid "Save failed, project does not exist\n"
+msgstr "保存失败，工程不存在\n"
+
+msgid "\n### Complie starting ... ###\n"
+msgstr "\n### 开始编译 ... ###\n"
+
+msgid "\n### Complie is done ... ###\n\n"
+msgstr "\n### 编译完成 ... ###\n\n"
+
+msgid "Please save the file before compilation"
+msgstr "请先保存后再编译"
+
+msgid "Compilation failed, project does not exist\n"
+msgstr "编译失败，工程不存在\n"
+
+msgid "Find & Replace"
+msgstr "查找替换"
+
+msgid "Find String Not Found"
+msgstr "字符串未找到"
+
+msgid "Project not saved!\nAre you sure you want to quit?"
+msgstr "工程未保存，您确定要退出吗?"
+
