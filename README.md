@@ -1,4 +1,3 @@
-# sunnychm
 
 # SunnyCHM是什么？
 SunnyCHM是一款制作CHM文件的程序。
@@ -14,6 +13,5 @@ CHM电子书制作QQ群（334683103）
 # 开发者
 Jacky Yu < jacky325@qq.com > 
 
-# 发布版本
+# 发布版本 ( 仅win7环境 )
 https://github.com/uniqid/sunnychm/tree/master/released
-
