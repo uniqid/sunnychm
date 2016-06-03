@@ -15,7 +15,7 @@ AllowAuiFloating = True
 Default_Perspective = "Default Perspective"
 
 AppName  = "SunnyCHM"
-Version  = "1.0.0"
+Version  = "1.0.1"
 Language = wx.LANGUAGE_CHINESE_SIMPLIFIED
 
 

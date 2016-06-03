@@ -59,7 +59,10 @@ def FilePutContents(path, content, mode = 'w'):
     if not os.path.isdir(dir):
         os.makedirs(dir)
     fp  = file(path, mode)
-    fp.write(data)
+    if path[-4:] == '.hhc' or path[-4:] == '.hhk':
+        fp.write(data.encode('gbk'))
+    else:
+        fp.write(data)
     fp.close()
 
 #---------------------------------------------------------------------------
